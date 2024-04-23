@@ -23,10 +23,10 @@
 <br />![1](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/edded890-b711-42af-8e38-41a525a8bee9)
 
 3\. Right click on the downloaded .zip file and click on Extract All.
-<br />![2](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/ad6e96f0-8cf4-46fa-8e45-7111fa9347ee)
+<br />![3](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/a6aa9162-8770-4c7d-bee6-97184182045a)
 
 4\. Choose the location where you want to save all the files in the .zip file and click on Extract.
-<br />![3](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/a6aa9162-8770-4c7d-bee6-97184182045a)
+<br />![2](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/2a92bab2-bc8d-4b10-93a5-019f08a6bf86)
 
 5\. You have successfully downloaded the repository folder!
 <br />![4](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/923dea26-4e22-490e-8fc4-d79bcef50995)
