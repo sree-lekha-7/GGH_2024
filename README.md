@@ -36,19 +36,20 @@
 1\. Enter your own simulator provided monitor output in the file monitor\_output.xlxs. A sample table is already given in the file. 
 
 ***Note:** Do not change the name of monitor\_output.xlxs file.*
-<br />![8](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/c8a7ef8c-c628-44e4-85aa-3b883709da19)
+<br />![5](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/c7fce0c1-b2cd-4459-8d3b-d3fd723870c0)
 
 2\. Click on Address bar and type cmd and click on enter.
-<br />![9](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/6fad9ba5-cc64-4ddd-acdd-7339006a6f83)
-<br />![10](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/9051f728-3ef0-4908-9dcc-72d66a1f7ed2)
+<br />![6](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/679593cd-7eff-4391-b6ef-90e0c36928d8)
+<br />![8](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/27555089-b379-4713-8ac2-5981b08803c4)
 
 You will be taken to the Command Prompt.
-<br />![11](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/c1cb2d02-783f-4cca-b016-8c059814522d)
+<br />![9](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/5472ab31-30e4-448c-a0b2-403716345570)
 
 3\. Type python ggh2024_code_latency.py and click enter. Average latency is calculated and the output is shown.
-<br />![12](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/3e442b17-5ae8-4aea-918a-ff38ee894edb)
+<br />![10](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/c1433aa8-b2b0-4db3-b344-7e5a202f5917)
 
 4\. Next, type python ggh2024_code_bandwidth.py and click on enter. Bandwidth is calculated and the output is shown.
-<br />![13](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/31ef2fe6-1279-4caf-9fc9-c455051d2271)
+<br />![11](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/416a0f0d-ae75-4498-97b5-73f3a60a5238)
+
 
 
