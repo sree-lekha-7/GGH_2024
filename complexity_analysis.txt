@@ -1,0 +1,21 @@
+When we combine both the `calculate_bandwidth` and `calculate_latency` functions are into one script, complexity analysis can be done as follows:
+
+Time Complexity:
+1. Opening Excel File: The time complexity of opening an Excel file using `openpyxl.load_workbook()` is approximately O(n), where n is the size of the Excel file.
+2. Iterating Through Transactions (Latency Calculation): The time complexity of iterating through transactions in the `calculate_latency` function is O(m), where m is the number of rows in the Excel sheet.
+3. Iterating Through Transactions (Bandwidth Calculation): Similarly, the time complexity of iterating through transactions in the `calculate_bandwidth` function is also O(m).
+4. Processing Each Transaction (Latency Calculation): Processing each transaction in the `calculate_latency` function involves constant time operations, O(1).
+5. Processing Each Transaction (Bandwidth Calculation): Similarly, processing each transaction in the `calculate_bandwidth` function involves constant time operations, O(1).
+
+Space Complexity:
+1. Opening Excel File: The space complexity for reading the Excel file is constant, O(1).
+2. Iterating Through Transactions (Latency Calculation): During the iteration, the space complexity is minimal, O(1).
+3. Iterating Through Transactions (Bandwidth Calculation): Similarly, the space complexity during the iteration is minimal, O(1).
+4. Variables: The space complexity for storing variables such as timestamps, transaction types, and data is constant, O(1).
+
+Overall, the combined complexity is as follows:
+- Time Complexity: O(n + m)
+- Space Complexity: O(1)
+Here, n is the size of the Excel file and m is the number of rows in the Excel sheet.
+
+In summary, the overall time complexity is dominated by the size of the Excel file and the number of rows in the sheet. However, both time and space complexity are minimal and constant for practical purposes.
