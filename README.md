@@ -20,17 +20,16 @@
 <https://www.gitkraken.com/learn/git/github-download#how-to-download-a-github-repository> 
 
 2\. Go to the location where you want to download these files and click on save.
-<br />![image](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/a57b61c7-7877-404f-ae48-0a8f69791b4c)
+<br />![1](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/edded890-b711-42af-8e38-41a525a8bee9)
 
+3\. Right click on the downloaded .zip file and click on Extract All.
+<br />![2](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/ad6e96f0-8cf4-46fa-8e45-7111fa9347ee)
 
-3\. Select the downloaded .zip file and click on Extract To.
-<br />![5](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/b3c10f82-31d8-44a0-84ac-d5566a8a120b)
-
-4\. Choose the location where you want to save all the files in the .zip file and click on OK.
-<br />![6](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/48668658-e153-4cf4-a55a-081f0b8b797b)
+4\. Choose the location where you want to save all the files in the .zip file and click on Extract.
+<br />![3](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/a6aa9162-8770-4c7d-bee6-97184182045a)
 
 5\. You have successfully downloaded the repository folder!
-<br />![7](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/74596743-7ce8-4c25-b6a2-2fefa7a5b406)
+<br />![4](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/923dea26-4e22-490e-8fc4-d79bcef50995)
 
 <br />**PART 3: Run Python Codes**
 
