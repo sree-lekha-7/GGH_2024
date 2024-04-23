@@ -33,9 +33,9 @@
 
 <br />**PART 3: Run Python Codes**
 
-1\. Enter your own simulator provided monitor output in the file monitor\_output.xlxs. A sample table is already given in the file. 
+1\. Enter your own simulator provided monitor output in the file monitor\_output.xlsx. A sample table is already given in the file. 
 
-***Note:** Do not change the name of monitor\_output.xlxs file.*
+***Note:** Do not change the name of monitor\_output.xlsx file.*
 <br />![5](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/c7fce0c1-b2cd-4459-8d3b-d3fd723870c0)
 
 2\. Click on Address bar and type cmd and click on enter.
