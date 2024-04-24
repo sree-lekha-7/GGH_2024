@@ -29,7 +29,7 @@
 <br />![2](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/2a92bab2-bc8d-4b10-93a5-019f08a6bf86)
 
 5\. You have successfully downloaded the repository folder!
-<br />![4](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/923dea26-4e22-490e-8fc4-d79bcef50995)
+<br />![12](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/0c2622c6-cc46-4809-b9c2-f4ad0b247633)
 
 <br />**PART 3: Run Python Codes**
 
