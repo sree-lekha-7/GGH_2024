@@ -31,8 +31,6 @@ FUNCTION calculate_latency(sheet):
 
 
 
-
-
 Pseudocode to calculate bandwidth:
 
 Function calculate_bandwidth(excel_path):
