@@ -39,8 +39,9 @@
 <br />![5](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/c7fce0c1-b2cd-4459-8d3b-d3fd723870c0)
 
 2\. Click on Address bar and type cmd and click on enter.
-<br />![6](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/679593cd-7eff-4391-b6ef-90e0c36928d8)
-<br />![8](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/27555089-b379-4713-8ac2-5981b08803c4)
+<br />![13](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/6ec42cde-2e3a-454f-be89-d42ac73d34e7)
+<br />![14](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/96903bb6-90de-499d-b252-a1b4824db7ae)
+
 
 You will be taken to the Command Prompt.
 <br />![9](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/5472ab31-30e4-448c-a0b2-403716345570)
