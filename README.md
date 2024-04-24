@@ -2,7 +2,7 @@
 
 <br />**PART 1: Install Python IDE** 
 
-1\. Goto to search bar present on the left corner of the task bar and type Microsoft Store.
+1\. Go to to search bar present on the left corner of the task bar and type Microsoft Store.
 <br />![1](https://github.com/sree-lekha-7/GGH_2023/assets/138370659/0419b8aa-b034-4b31-8645-2579a9377ae2)
 
 2\. Open Microsoft Store. Type Python in the search bar and click oo the version you want, preferably 3.10 or 3.11.
