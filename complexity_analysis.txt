@@ -1,4 +1,4 @@
-When we combine both the `calculate_bandwidth` and `calculate_latency` functions are into one script, complexity analysis can be done as follows:
+When we combine both the `calculate_bandwidth` and `calculate_latency` functions into one script, complexity analysis can be done as follows:
 
 Time Complexity:
 1. Opening Excel File: The time complexity of opening an Excel file using `openpyxl.load_workbook()` is approximately O(n), where n is the size of the Excel file.
