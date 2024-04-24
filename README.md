@@ -19,7 +19,7 @@
 
 <https://www.gitkraken.com/learn/git/github-download#how-to-download-a-github-repository> 
 
-2\. Go to the location where you want to download these files and click on save.
+2\. Go to the location where you want to download these files and click on Save.
 <br />![1](https://github.com/sree-lekha-7/GGH_2024/assets/138370659/edded890-b711-42af-8e38-41a525a8bee9)
 
 3\. Right click on the downloaded .zip file and click on Extract All.
