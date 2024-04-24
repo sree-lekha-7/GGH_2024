@@ -1,0 +1,77 @@
+Pseudocode to calculate average latency:
+
+FUNCTION calculate_latency(sheet):
+    Initialize total_read_latency to 0
+    Initialize total_write_latency to 0
+    Initialize total_transactions to 0
+    Initialize read_timestamps as an empty dictionary
+    
+    FOR EACH row IN sheet:
+        Extract timestamp, txn_type, and data from the row
+        
+        IF txn_type is 'Read':
+            Increment total_transactions by 1
+            Store timestamp for the address in read_timestamps dictionary
+            
+        ELSE IF txn_type is 'Write':
+            Increment total_transactions by 1
+            Increment total_write_latency by 1
+            
+        ELSE IF txn_type is 'Data':
+            Increment total_transactions by 1
+            Extract address from txn_type
+            IF address exists in read_timestamps:
+                Calculate read latency using stored timestamp and current timestamp
+                Increment total_read_latency by calculated read latency
+                Remove address entry from read_timestamps dictionary
+    
+    Calculate average_latency by dividing total_read_latency + total_write_latency by total_transactions
+    
+    RETURN total_read_latency, total_write_latency, total_transactions
+
+
+
+
+
+Pseudocode to calculate bandwidth:
+
+Function calculate_bandwidth(excel_path):
+    Try:
+        Open the Excel file at the specified path
+        If the file doesn't exist:
+            Print an error message and exit the function
+        
+        Initialize total_bytes_transferred to 0
+        Initialize last_transaction_time to None
+        
+        For each row in the Excel sheet, starting from the second row:
+            Extract the timestamp, transaction type, and data from the row
+            
+            If the transaction type is a write:
+                Add 32 bytes to the total_bytes_transferred
+            
+            Update the last_transaction_time with the current timestamp
+        
+        Calculate the total time duration as the difference between the last and first transaction times
+        
+        If the total time duration is not zero:
+            Calculate the bandwidth as the total bytes transferred divided by the total time duration
+        Else:
+            Set the bandwidth to 0
+        
+        Return the total bytes transferred, total time duration, and bandwidth
+    
+    Except for FileNotFoundError:
+        Print an error message indicating the file was not found
+    
+    Except for any other type of error:
+        Print a generic error message
+
+excel_path = "C:\\Users\\mnsle\\OneDrive\\Desktop\\ggh2024\\monitor_output.xlsx"
+
+total_bytes, total_time, bandwidth = calculate_bandwidth(excel_path)
+
+If the total bytes, total time, and bandwidth are not None:
+    Print the total bytes transferred
+    Print the total time duration
+    Print the bandwidth
